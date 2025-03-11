@@ -17,7 +17,6 @@
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      }
         .container {
-            margin: auto;
             max-width: 1240px;
             background: white;
             padding: 20px;
@@ -43,4 +42,6 @@
             font-family: 'Courier New', Courier, monospace;
             font-size: medium;
         }
-    
+    .content-img{
+        text-align: center;
+    }
