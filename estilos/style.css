@@ -36,7 +36,8 @@
             font-size: 18px;
         }
         img{
-            border: 1px solid lightgray ;
+            border: 1px solid lightgray;
+            width: 550px;
         }
         p{
             font-family: 'Courier New', Courier, monospace;
